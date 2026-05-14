@@ -1,10 +1,30 @@
 # FUTURE_CS_02
-🚨 Phishing Email Analysis 🚨
+This repository contains a detailed Vulnerability Assessment Report for the OWASP Juice Shop application.
+The project demonstrates the process of identifying, analyzing, and documenting security vulnerabilities in a vulnerable web application environment.
 
-Performed an investigation on a phishing email impersonating Decathlon and offering a fake €1000 voucher. The analysis included email header inspection, HTML source code review, suspicious URL detection, and authentication checks (SPF/DKIM).
+The assessment focuses on common web application security issues such as:
 
-This hands-on exercise helped me understand how attackers use spoofed domains and social engineering techniques to trick users.
+SQL Injection
+Cross-Site Scripting (XSS)
+Broken Authentication
+Sensitive Data Exposure
+Security Misconfigurations
+Objectives
+Perform vulnerability assessment on OWASP Juice Shop
+Understand real-world web application security flaws
+Document findings with risk analysis and remediation
+Improve practical cybersecurity and penetration testing skills
+Tools & Technologies Used
+Burp Suite
+OWASP ZAP
+Browser Developer Tools
+Kali Linux
+OWASP Juice Shop
+Key Highlights
+Vulnerability identification and analysis
+Risk severity classification
+Proof-of-concept testing
+Recommended mitigation techniques
+Professional security reporting structure
 
-🔐 Always verify sender details and avoid clicking unknown links.
-
-#CyberSecurity #Phishing #EmailSecurity #SOC #BlueTeam #ThreatAnalysis #InfoSec
+This project is intended for educational and ethical cybersecurity learning purposes only.
